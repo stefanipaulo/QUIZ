@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#questions {
+    margin-top: 20px;
+}
+
+#results {
+    margin-top: 20px;
+}
